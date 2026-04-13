@@ -1,4 +1,4 @@
-# TD1 — Market Microstructure: LOB Features & Mid-Price Prediction
+# Market Microstructure: LOB Features & Mid-Price Prediction
 
 **Course:** AI for Finance — M2 Paris-Saclay  
 **Dataset:** FI-2010 benchmark (5 Finnish stocks, 10 trading days, 10 LOB levels)
